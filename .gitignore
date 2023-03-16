@@ -1,0 +1,8 @@
+# Project exclude paths
+/AppData/Local/Discord/app-1.0.9011/modules/discord_spellcheck-1/discord_spellcheck/node_modules/
+/AppData/Local/Discord/app-1.0.9011/modules/discord_utils-1/discord_utils/node_modules/
+/AppData/Local/Discord/app-1.0.9011/modules/discord_voice-2/discord_voice/node_modules/
+/AppData/Local/JetBrains/IntelliJIdea2022.2/javascript/typings/lodash/4.14.191/node_modules/
+/AppData/Local/JetBrains/IntelliJIdea2022.2/javascript/typings/react-dom/16.9.18/node_modules/
+/AppData/Local/Microsoft/TypeScript/4.8/node_modules/
+/AppData/Local/Programs/Notion/resources/app/node_modules/
